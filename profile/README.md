@@ -44,6 +44,7 @@
 | Project | |
 |---|---|
 | [**ZyDisk**](https://github.com/conaksoft/zydisk) | Mount SFTP, FTP/FTPS and S3 storage as native drives in macOS Finder. No macFUSE, no kernel extensions, no password prompts. |
+| [**ZyManager**](https://github.com/conaksoft/zymanager) | Storage and memory manager for developers on macOS. Safely cleans Xcode, Gradle, npm and Flutter caches and stale project dependencies, uninstalls apps with their leftovers, and monitors RAM and swap from the menu bar. |
 
 ### Toolkit
 
