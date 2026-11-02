@@ -39,7 +39,9 @@
 | [**TaskWin**](https://conaksoft.com/work/taskwin) | A rewards app for surveys, tasks and games. *Android* |
 | [**Idle Car Service: Garage Boss**](https://conaksoft.com/work/idle-car-service) | An idle tycoon game: fix cars, hire mechanics, build a garage empire. *Android* |
 
-### Open source
+### Source available
+
+Free for personal and non-commercial use under the PolyForm Noncommercial License.
 
 | Project | |
 |---|---|
